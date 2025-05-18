@@ -6,3 +6,5 @@ myList[0] = "Grapes" # Grapes replace Apple
 
 print(myList[0])
 print(myList) # Shows updated list
+
+print(myList[1:4])
