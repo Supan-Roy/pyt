@@ -13,8 +13,8 @@ print("Count of 'Apple':", apple_count)
 index_supan = myTuple.index("Supan")
 print("Index of 'Supan':", index_supan)
 
-# Tuple with one item (singleton tuple)
-single_item = ("Hello",)  # Note the comma!
+# Tuple with one item/singleton tuple
+single_item = ("Hello",)
 print("Singleton tuple:", single_item)
 
 # Tuple concatenation
