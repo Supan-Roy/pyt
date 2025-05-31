@@ -18,3 +18,16 @@ print(l1)
 
 l1.remove(12) #Removing element 12
 print(l1)
+
+copyList = myList.copy()  # Copying the list
+print("Copied list:", copyList)
+
+# Counting occurrences of an element
+print("Count of 'Apple':", myList.count("Apple"))
+
+# Extending list with another list
+myList.extend(["New", 123])
+print("After extend:", myList)
+
+# Finding index of an element
+print("Index of 'Supan':", myList.index("Supan"))
