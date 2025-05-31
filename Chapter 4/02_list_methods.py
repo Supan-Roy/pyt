@@ -15,3 +15,6 @@ print(l1)
 
 l1.pop(3) #Popping out 3th indexed value
 print(l1)
+
+l1.remove(12) #Removing element 12
+print(l1)
