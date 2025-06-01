@@ -28,3 +28,5 @@ if "Supan" in marks:
 #Popping value
 removed_value = marks.pop("Jenny")
 print("After pop:", marks)
+
+d = {} #Empty Dictionary
