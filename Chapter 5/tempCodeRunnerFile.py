@@ -1,1 +1,1 @@
-print(marks.items())
+print(len(s))
